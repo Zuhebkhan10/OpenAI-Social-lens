@@ -14,9 +14,13 @@ Extract meaningful insights,
 
 Features:
 Reads unstructured text data from file
+
 Parses individual profile information
+
 Cleans and standardizes data (handles K/M values)
+
 Performs analysis (max posts, followers, following)
+
 Outputs structured JSON data
 
 Tech Stack :
@@ -40,16 +44,25 @@ Load:
 Sample output:
 {
 'username': '_anujsinghal', 
+
 'no_of_posts': 1785,
+
 'no_of_followers': 681000, 
+
 'no_of_following': 248, 
-'name': 'Anuj Singhal', 
+
+'name': 'Anuj Singhal',
+
 'type_of_page': 'Digital creator', 
+
 'bio': 'Managing Editor, CNBC-Awaaz.
 }
 Key Insights:
 Identify profile with maximum posts
+
 Identify profile with maximum followers
+
 Identify profile with maximum following
+
 How many category do we have how many people do we have.
 
