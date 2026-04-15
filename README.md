@@ -42,7 +42,9 @@ Load:
     Store as list of dictionaries (JSON-like format)
 
 Sample output:
+
 {
+
 'username': '_anujsinghal', 
 
 'no_of_posts': 1785,
@@ -56,6 +58,7 @@ Sample output:
 'type_of_page': 'Digital creator', 
 
 'bio': 'Managing Editor, CNBC-Awaaz.
+
 }
 
 Key Insights:
